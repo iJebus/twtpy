@@ -1,0 +1,9 @@
+{
+    "data": {
+        "attributes": {
+            "url": "http://test.com",
+            "username": "test"
+        },
+    "type": "users"
+    }
+}
